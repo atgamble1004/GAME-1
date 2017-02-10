@@ -1,5 +1,6 @@
 # Memory Puzzle
 # By Al Sweigart al@inventwithpython.com
+#edited by Issabella Freitas 
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 
