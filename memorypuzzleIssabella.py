@@ -1,13 +1,13 @@
 # Memory Puzzle
 # By Al Sweigart al@inventwithpython.com
-#edited by Issabella Freitas 
+#edited by Issabella Freitas! 
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 
 import random, pygame, sys
 from pygame.locals import *
 
-FPS = 10 # frames per second, the general speed of the program
+FPS = 15 # frames per second, the general speed of the program
 WINDOWWIDTH = 640 # size of window's width in pixels
 WINDOWHEIGHT = 480 # size of windows' height in pixels
 REVEALSPEED = 8 # speed boxes' sliding reveals and covers
